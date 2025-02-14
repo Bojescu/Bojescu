@@ -1,14 +1,14 @@
 👋 Hi, I’m Ana Bojescu
 
--💻 I’m passionate about software development and continuously exploring new technologies in software engineering.
+💻 I’m passionate about software development and continuously exploring new technologies in software engineering.
 
--🌱 Currently focusing on Python, web development, and software architecture.
+🌱 Currently focusing on Python, web development, and software architecture.
 
--🤝 I’m interested in collaborating on innovative projects related to automation, web applications, and open-source contributions.
+🤝 I’m interested in collaborating on innovative projects related to automation, web applications, and open-source contributions.
 
--📫 Reach me at: anabojescu@mail.ru
+📫 Reach me at: anabojescu@mail.ru
 
--⚡ Fun fact: I enjoy solving complex problems and expanding my skills by learning new programming languages.
+⚡ Fun fact: I enjoy solving complex problems and expanding my skills by learning new programming languages.
 
 🌟 Let’s connect and build something great together!
 
